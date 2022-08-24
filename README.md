@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**NatureLan-sudo/NatureLan-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi👋
+##
+✨✨大家好，我是来自BIT的一枚研究生，主要研究VSLAM、VIO-SLAM、CSLAM(Collaborative SLAM)。我将会在这里分享我的学习经验，LeetCode刷题过程，以及最新的SLAM相关方向的论文。
+以下，是我简要的个人信息。
+##
+- 🔭 1、个人信息
+- 🌱 2、教育经历
+- 👯 3、专业技能
+- 🤔 4、项目经历
+- 💬 5、开源项目
+- 📫 6、个人账号
+- 😄 7、已发表论文
+- ⚡ 8、其他
