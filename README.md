@@ -1,7 +1,6 @@
 ### Hi👋
 ##
 ✨✨主要研究VSLAM、VIO-SLAM、CSLAM(Collaborative SLAM)。我将会在这里分享我的学习经验，LeetCode刷题过程，以及最新的SLAM相关方向的论文。
-以下，是我简要的个人信息。
 ##
 - 🔭 1、个人信息
 - 🌱 2、教育经历
